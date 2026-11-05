@@ -24,12 +24,19 @@ Current Coursework: Signals & Systems; Circuits & Electronics Lab I; Analog Elec
 **Other:** Microsoft Office, DaVinci Resolve, soldering
 
 ## **PROJECT EXPERIENCE**
+**Lab Assistant; Reinforcement Learning for Quadcopters** | May 2026-Present
+- Developed open-source containerized solutions for machine learning to train drones for flight.
+- Implemented Google Cloud integration for training with cloud services.
+- Designed and constructed a low-cost tachometer for measuring angular velocity.
+- Fabricated a flexible drone mount for in-place quadcopter flight testing.
+
 **Maze-Solving Robot** | EE 2361: Introduction to Microcontrollers | 2026
 - Wrote the PIC24 firmware that guided the robot dynamically through a maze.
-- Used readings from three ultrasonic distance sensors to navigate and controlled two brushed DC motors using PWM.
+- Used readings from three ultrasonic distance sensors to navigate mazes.
+- Controlled two brushed DC motors using PWM for speed controlled motion.
 
 **Mesh Network** | 2024
-- Developed and implemented a network of three nodes.
+- Developed and implemented a network of three ESP32 nodes using ESP-NOW protocol.
 
 **Parameterized Desk** | 2025
 - Created a fully parameterized desk in Onshape.
