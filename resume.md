@@ -37,9 +37,6 @@ Current Coursework: Signals & Systems; Circuits & Electronics Lab I; Analog Elec
 **Decimal-to-Arbitrary-Base Calculator** | 2025
 - Developed a step-by-step calculator in MATLAB.
 
-**Lossless Compression Algorithm** | Middle School Science Fair Project
-- Wrote a lossless compression algorithm in Python.
-
 ## **LEADERSHIP EXPERIENCE**
 **Community Manager** | Beacon Social Club | Nov. 2025-Present
 - Resolved a conflict between community members by talking with them about the situation and helping them reach a peaceful resolution.
