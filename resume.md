@@ -6,6 +6,10 @@
     <a href="mailto:itsmartinoliver@gmail.com">
         itsmartinoliver@gmail.com
     </a>
+     | 
+    <a href="https://github.com/itsmartinoliver/">
+        github.com/itsmartinoliver
+    </a>
 </p>
 
 ## **EDUCATION**
@@ -18,31 +22,26 @@ Relevant Coursework Completed: Signals, Circuits & Electronics; Analog & Digital
 Current Coursework: Signals & Systems; Circuits & Electronics Lab I; Analog Electronics; Semiconductor Devices
 
 ## **TECHNICAL SKILLS**
-**Programming:** Python, C++, MATLAB  
-**Embedded Systems:** PIC24 firmware development, ultrasonic sensors, PWM motor control  
-**CAD and Design:** Fusion 360, Onshape, Blender  
-**Other:** Microsoft Office, DaVinci Resolve, soldering
+**Programming:** Python, C++, MATLAB, Git & GitHub\
+**Embedded Systems:** PIC24 firmware development, ultrasonic sensors, PWM motor control\
+**CAD and Design:** Fusion 360, Onshape, Blender\
+**Other:** Microsoft Office, soldering and debugging circuits
 
 ## **PROJECT EXPERIENCE**
-**Lab Assistant; Reinforcement Learning for Quadcopters** | May 2026-Present
-- Developed open-source containerized solutions for machine learning to train drones for flight.
-- Implemented Google Cloud integration for training with cloud services.
-- Designed and constructed a low-cost tachometer for measuring angular velocity.
-- Fabricated a flexible drone mount for in-place quadcopter flight testing.
+**Research Assistant; Reinforcement Learning for Quadcopters** | Prof. Nicola Elia | May 2026-Present
+- Built containerized workflows for training quadcopters to fly using reinforcement learning.
+- Integrated Google Cloud services to support cloud-based training.
+- Designed and constructed a low-cost tachometer for measuring the angular velocity of drone propellers.
+- Fabricated a flexible drone mount for in-place quadcopter flight testing using both 3D-printed and laser-cut components.
 
 **Maze-Solving Robot** | EE 2361: Introduction to Microcontrollers | 2026
-- Wrote the PIC24 firmware that guided the robot dynamically through a maze.
+- Developed PIC24 firmware for a maze-solving robot.
 - Used readings from three ultrasonic distance sensors to navigate mazes.
-- Controlled two brushed DC motors using PWM for speed controlled motion.
+- Controlled two brushed DC motors using PWM for speed-controlled motion.
 
 **Mesh Network** | 2024
 - Developed and implemented a network of three ESP32 nodes using ESP-NOW protocol.
-
-**Parameterized Desk** | 2025
-- Created a fully parameterized desk in Onshape.
-
-**Decimal-to-Arbitrary-Base Calculator** | 2025
-- Developed a step-by-step calculator in MATLAB.
+- Performed range testing on nodes to determine signal area.
 
 ## **LEADERSHIP EXPERIENCE**
 **Community Manager** | Beacon Social Club | Nov. 2025-Present
