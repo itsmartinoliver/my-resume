@@ -31,12 +31,13 @@ Current Coursework: Signals & Systems; Circuits & Electronics Lab I; Analog Elec
 **Research Assistant; Reinforcement Learning for Quadcopters** | Prof. Nicola Elia | May 2026-Present
 - Built containerized workflows for training quadcopters to fly using reinforcement learning.
 - Integrated Google Cloud services to support cloud-based training.
-- Designed and constructed a low-cost tachometer for measuring the angular velocity of drone propellers.
+- Designed and constructed a low-cost tachometer for measuring the angular velocity of drone propellers in the lab.
 - Fabricated a flexible drone mount for in-place quadcopter flight testing using both 3D-printed and laser-cut components.
 
 **Maze-Solving Robot** | EE 2361: Introduction to Microcontrollers | 2026
 - Developed PIC24 firmware for a maze-solving robot.
 - Used readings from three ultrasonic distance sensors to navigate mazes.
+- Troubleshot hardware issues in the lab with an oscilloscope.
 - Controlled two brushed DC motors using PWM for speed-controlled motion.
 
 **Mesh Network** | 2024
