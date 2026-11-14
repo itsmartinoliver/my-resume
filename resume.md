@@ -22,23 +22,22 @@ Relevant Coursework Completed: Signals, Circuits & Electronics; Analog & Digital
 Current Coursework: Signals & Systems; Circuits & Electronics Lab I; Analog Electronics; Semiconductor Devices
 
 ## **TECHNICAL SKILLS**
-**Programming:** Python, C++, MATLAB, Git & GitHub\
-**Embedded Systems:** PIC24 firmware development, ultrasonic sensors, PWM motor control\
-**CAD and Design:** Fusion 360, Onshape, Blender\
-**Other:** Microsoft Office, soldering and debugging circuits
+**Lab & prototyping:** Oscilloscope, soldering, circuit debugging, 3D printing, laser-cut fabrication  
+**Robotics & embedded systems:** PIC24, ESP32, ultrasonic sensors, PWM motor control  
+**Data & programming:** Python, MATLAB, C++  
+**Design tools:** Fusion 360, Onshape  
 
 ## **PROJECT EXPERIENCE**
 **Research Assistant; Reinforcement Learning for Quadcopters** | Prof. Nicola Elia | May 2026-Present
-- Built containerized workflows for training quadcopters to fly using reinforcement learning.
-- Integrated Google Cloud services to support cloud-based training.
-- Designed and constructed a low-cost tachometer for measuring the angular velocity of drone propellers in the lab.
-- Fabricated a flexible drone mount for in-place quadcopter flight testing using both 3D-printed and laser-cut components.
+- Designed and built a low-cost tachometer to measure drone-propeller angular velocity in a research lab.
+- Designed and ran a design of experiments using a custom tachometer, recorded propeller-speed measurements, analyzed results in Python, and documented findings for Prof. Elia.
+- Built containerized workflows for quadcopter reinforcement-learning training and integrated Google Cloud services to support training runs.
+- Designed and fabricated a mount for in-place quadcopter testing using 3D-printed and laser-cut components.
 
 **Maze-Solving Robot** | EE 2361: Introduction to Microcontrollers | 2026
-- Developed PIC24 firmware for a maze-solving robot.
-- Used readings from three ultrasonic distance sensors to navigate mazes.
-- Troubleshot hardware issues in the lab with an oscilloscope.
-- Controlled two brushed DC motors using PWM for speed-controlled motion.
+- Developed PIC24 firmware for a maze-solving robot using three ultrasonic sensors for navigation.
+- Implemented PWM control of two brushed DC motors for speed-controlled movement.
+- Diagnosed hardware issues using an oscilloscope and tested sensor and motor behavior in the lab.
 
 **Mesh Network** | 2024
 - Developed and implemented a network of three ESP32 nodes using ESP-NOW protocol.
@@ -49,7 +48,7 @@ Current Coursework: Signals & Systems; Circuits & Electronics Lab I; Analog Elec
 - Resolved a conflict between community members by talking with them about the situation and helping them reach a peaceful resolution.
 
 **CAD Lead** | FIRST Tech Challenge Team #14575, Capital Bots | 2021-2023
-- Led the team's Fusion 360 mechanical design.
+- Led mechanical design in Fusion 360.
 - Mentored new members as they learned robotics.
 
 ## **VOLUNTEER EXPERIENCE**
