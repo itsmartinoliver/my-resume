@@ -6,10 +6,6 @@
     <a href="mailto:itsmartinoliver@gmail.com">
         itsmartinoliver@gmail.com
     </a>
-     | 
-    <a href="https://github.com/itsmartinoliver/">
-        github.com/itsmartinoliver
-    </a>
 </p>
 
 ## **EDUCATION**
